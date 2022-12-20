@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+thead{
+  color: black;
+}
+td{
+  color: rgb(34, 34, 95); 
+}
+
+span{
+  font-size: 17px;
+  font-style: italic;
+  color: rgb(140, 50, 140)
+}
+
+hr{
+  color: black;
+  size: 5in;
+}
+h4{
+  margin: 10px;
+}
